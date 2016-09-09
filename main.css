@@ -1,0 +1,68 @@
+body {
+    background-color: #800000;
+    max-width: 480px;
+    
+    margin-left: auto;
+    padding: 70px;
+    margin-right: auto;
+}
+
+h1 {
+    color: #FFD700;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 70px;
+}
+
+h2 { 
+    color: #FFD700;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+h3 {
+    color: #FFD700;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+p {
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+    text-align: center;
+}
+
+a:link {
+    color: #FFD700;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #009900;
+}
+
+
+a:hover {
+    text decoration: underline
+}
+
+
+a:active {
+    color: #b3e0ff;
+}
+
+
+img { 
+     max-width: 100%
+     display: block;
+     margin: auto;
+     border: 2px solid #804000;
+}
+ 
+
+
+
+
+
